@@ -10,3 +10,9 @@ Q7.Have you used flat file in your project?
 Q8.What is factless fact table?
 Q9.Which ETL toll you are using in your project? Do you have knowledge of Informatica?
 Q10.What are the validations that you validate during ETL testing and what will be your scenarios?
+--------------------------------------------------------------------------------------------------
+Q1.Why surrogate key is called factless key?
+Q2.Can surrogate key be NULL?
+Q3.Can surrogate key be duplicated?
+Q4.How surrogate is created?
+Q5.Why dont we use surrogate key at start?
