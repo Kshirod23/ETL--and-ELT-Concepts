@@ -1,0 +1,12 @@
+Mphasis ETL Testing Interview Question
+--------------------------------------
+Q1.What is surrogate key?
+Q2.We have a primary key in table then what is the use of surrogate key?
+Q3.If we have primary key then can we used surrogate key?
+Q4.What is data purging?
+Q5.How to check count between staging and Target?
+Q6.If there is a different between count of staging and target then what will you do?
+Q7.Have you used flat file in your project?
+Q8.What is factless fact table?
+Q9.Which ETL toll you are using in your project? Do you have knowledge of Informatica?
+Q10.What are the validations that you validate during ETL testing and what will be your scenarios?
